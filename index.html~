@@ -9,26 +9,25 @@
 		<br>
 		<br>
 		<br>
-		<img src="#WEARYOURPRIDE.png" alt="#WEARYOURPRIDE" style="width:200px;height:200px;">
-		<h1>ELVIS ANTERO</h1>
-		<h4>BS Computer Science</h4>
-		<h4>2014-10082</h4>
-		<br>
-		<br>
-		<br>
-		<div id="box1">
-			<h4>ABOUT ME</h4>
-			<p>A fanatic of almost any international things</p>
-			<h4>EXPECTATIONS FOR THE SUBJECT</h4>
-			<p>Well, magiging masaya?</p>
-			<h4>EXPECTATIONS FOR THE TEACHER</h4>
-			<p>He'll be a very matulungin prof</p>
-			<h4>TIMES I HAVE TAKEN CMSC 100</h4>
-			<p>My first (and hopefully my last).</p>
-			<h4>CONTACT NUMBER(S)</h4>
-			<p>+639991743701</p>
-			
+		<div id="title">
+			<img src="#WEARYOURPRIDE.jpg" alt="#WEARYOURPRIDE" style="width:200px;height:200px;">
+			<h1>ELVIS ANTERO</h1>
+			<h4>BS Computer Science</h4>
+			<h4>2014-10082</h4>
 		</div>
+		<br>
+		<br>
+		<br>
+		<h4>ABOUT ME</h4>
+		<p>A fanatic of almost any international things</p>
+		<h4>EXPECTATIONS FOR THE SUBJECT</h4>
+		<p>Well, magiging masaya?</p>
+		<h4>EXPECTATIONS FOR THE TEACHER</h4>
+		<p>He'll be a very matulungin prof</p>
+		<h4>TIMES I HAVE TAKEN CMSC 100</h4>
+		<p>My first (and hopefully my last).</p>
+		<h4>CONTACT NUMBER(S)</h4>
+		<p>+639991743701</p>
 
 	</body>
 </html>

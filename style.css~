@@ -14,3 +14,12 @@ p {
 color: black;
 text-align: center;
 }
+
+img {
+display: block;
+margin: auto;
+}
+
+div {
+background-color: black;
+}
