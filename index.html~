@@ -5,15 +5,22 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
+		<br>
+		<br>
+		<br>
+		<br>
+		<img src="#WEARYOURPRIDE.png" alt="#WEARYOURPRIDE" style="width:400px;height:400px;">
 		<h1>ELVIS ANTERO</h1>
 		<h4>BS Computer Science</h4>
 		<h4>2014-10082</h4>
-		
+		<br>
+		<br>
+		<br>
 		<div id="box1">
 			<h4>ABOUT ME</h4>
 			<p>A fanatic of almost any international things</p>
 			<h4>EXPECTATIONS FOR THE SUBJECT</h4>
-			<p>Well, </p>
+			<p>Well, magiging masaya?</p>
 			<h4>EXPECTATIONS FOR THE TEACHER</h4>
 			<p>He'll be a very matulungin prof</p>
 			<h4>TIMES I HAVE TAKEN CMSC 100</h4>
